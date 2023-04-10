@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+final Color color1=Color.fromRGBO(63, 61, 86, 1);
+final Color color2 = Color.fromRGBO(255, 229, 196, 1);
+final Color color3=Color.fromRGBO(63, 61, 86, 0.8);
+final Color color4=Color.fromRGBO(63, 61, 86, 0.5);
+final Color color5=Color.fromRGBO(63, 61, 86, 0.2);
+final Color color6=Color.fromRGBO(245, 166, 159, 1);
+final Color color7=Color.fromRGBO(194, 187, 205, 1);
+final Color color8=Color.fromRGBO(236, 234, 187, 1);
+final Color color9=Color.fromRGBO(206, 220, 207, 1);
